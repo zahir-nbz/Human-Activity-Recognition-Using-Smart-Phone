@@ -7,6 +7,8 @@ A full description about the experiment can be found at following link: (http://
 
 And you can get the dataset here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+download and unzip the dataset, then load it in r.
+
 
 #This Repository contains a Codebook,tidydata.txt and code script (Analysis.R).
 
