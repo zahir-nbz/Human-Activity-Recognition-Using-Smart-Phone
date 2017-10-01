@@ -1,6 +1,6 @@
 # Human-Activity-Recognition-Using-Smart-Phone
 
-##Introduction
+Introduction:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 A full description about the experiment can be found at following link: (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
@@ -10,10 +10,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 #This Repository contains a Codebook,tidydata.txt and code script (Analysis.R).
 
-#Codebook
+Codebook
 The codebook contains how I combined training dataset and test dataset, and extracted partial variables to create another dataset with the averages of each variable for each activity which conludes creating a new tidy dataset (tidydata.txt).
 
-#Analysis.R
+Analysis.R
 It is the code script typed in R to create the tidy dataset which does 
 the following:
 1-Download the dataset if it does not already exist in the working directory
