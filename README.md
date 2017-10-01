@@ -10,10 +10,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 #This Repository contains a Codebook,tidydata.txt and code script (Analysis.R).
 
-Codebook
+#Codebook
 The codebook contains how I combined training dataset and test dataset, and extracted partial variables to create another dataset with the averages of each variable for each activity which conludes creating a new tidy dataset (tidydata.txt).
 
-Analysis.R
+#Analysis.R
 It is the code script typed in R to create the tidy dataset which does 
 the following:
 1-Download the dataset if it does not already exist in the working directory
